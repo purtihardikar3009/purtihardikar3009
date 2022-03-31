@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @purtihardikar3009
+- 👋 Hi, I’m Purti Hardikar!
 - 👀 I’m interested in User Experience Design + Data Visulization.
 - 🌱 I’m currently learning MFA- Information Design and Data Visulization (HCI) 
 - 💞️ I’m looking to collaborate on intresting coding projects.
